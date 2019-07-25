@@ -47,7 +47,6 @@
     end
     return newarray
   end 
-  
 
   
   
