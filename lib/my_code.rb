@@ -3,7 +3,8 @@ map-like
     i = 0 
     newarray = []
     
-    while i < array.length 
+    while i < array.length do
+      
     
     
     
