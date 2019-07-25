@@ -8,5 +8,6 @@
       newarray.push(newvalue);
       i+=1 
     end
+    return newarray 
   end
   
