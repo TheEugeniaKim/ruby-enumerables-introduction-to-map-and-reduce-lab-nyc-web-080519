@@ -11,3 +11,15 @@
     return newarray 
   end
   
+  def map_to_no_change(array)
+    i = 0 
+    newarray = []
+    
+    while i < array.length do 
+      values = array[i]
+      newarray.push(values)
+      i += 1 
+    end
+    return newarray
+  end
+      
