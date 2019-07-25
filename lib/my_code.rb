@@ -4,7 +4,7 @@ map-like
     newarray = []
     
     while i < array.length do
-      array[i]
+      array[i] * -1 
     
     
     
