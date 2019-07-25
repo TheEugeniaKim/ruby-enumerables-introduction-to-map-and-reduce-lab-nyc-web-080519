@@ -52,7 +52,8 @@
 def reduce_to_total(source_array, starting_point)
   i = 0 
   
-  while 
+  while source_array.length < 0 
+  
   
   
   
