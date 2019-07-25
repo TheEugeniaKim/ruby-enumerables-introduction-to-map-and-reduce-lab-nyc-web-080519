@@ -1,5 +1,10 @@
 map-like 
   def map_to_navigate(array)
-    p[]
+    i = 0 
+    
+    
+    
+    
+    
   end
   
