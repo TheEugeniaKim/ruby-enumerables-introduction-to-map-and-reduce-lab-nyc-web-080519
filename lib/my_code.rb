@@ -6,8 +6,7 @@ map-like
     while i < array.length do
       newvalue = array[i] * -1 
       newarray.push(newvalue)
-    
-    
-    
+      i+=1 
+    end
   end
   
