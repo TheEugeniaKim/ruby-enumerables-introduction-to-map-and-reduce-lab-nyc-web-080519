@@ -41,7 +41,7 @@
     newarray = []
     
     while i < array.length do 
-      squaredvalues = array[i]*array[i]
+      squaredvalues = array[i]**2 
       newarray.push(squaredvalues)
       i += 1 
     end
