@@ -36,7 +36,7 @@
     return newarray
   end
   
-  def map_to_square
+  def map_to_square(array)
     i = 0 
     newarray = []
     
