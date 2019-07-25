@@ -22,4 +22,24 @@
     end
     return newarray
   end
+  
+  
+  def map_to_double(array)
+    i = 0 
+    newarray = []
+    
+    while i < array.length do 
+      newvalues = array[i] * 2 
+      newarray.push(newvalues)
+      i += 1 
+    end
+    return newarray
+  end
+  
+  
+  
+  
+  
+  
+  
       
