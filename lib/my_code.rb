@@ -1,5 +1,5 @@
 
-  def map_to_navigate(array)
+  def map_to_negativize(array)
     i = 0 
     newarray = []
     
