@@ -4,8 +4,8 @@ map-like
     newarray = []
     
     while i < array.length do
-      array[i] * -1 
-    
+      newvalue = array[i] * -1 
+      newarray.push()
     
     
     
