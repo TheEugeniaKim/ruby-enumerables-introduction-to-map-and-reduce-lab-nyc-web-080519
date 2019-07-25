@@ -45,6 +45,7 @@
       newarray.push(squaredvalues)
       i += 1 
     end
+    
     return newarray
   end 
 
