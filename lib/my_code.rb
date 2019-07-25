@@ -69,7 +69,7 @@ def reduce_to_all_true(source_array)
     end
   i+=1 
   end
-return true  
+return false  
 end
   
 def reduce_to_any_true(source_array)
