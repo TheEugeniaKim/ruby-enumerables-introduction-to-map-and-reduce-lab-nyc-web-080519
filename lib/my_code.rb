@@ -36,6 +36,27 @@
     return newarray
   end
   
+  def map_to_square
+    i = 0 
+    newarray = []
+    
+    while i < array.length do 
+      squaredvalues = array[i]*array[i]
+      newarray.push(squaredvalues)
+      i += 1 
+    end
+    return newarray
+  end 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
